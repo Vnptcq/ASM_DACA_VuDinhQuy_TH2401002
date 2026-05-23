@@ -1,0 +1,17 @@
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Infrastructure/bin/Debug/net8.0/HR_Management.Infrastructure.deps.json
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Infrastructure/bin/Debug/net8.0/HR_Management.Infrastructure.runtimeconfig.json
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Infrastructure/bin/Debug/net8.0/HR_Management.Infrastructure.dll
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Infrastructure/bin/Debug/net8.0/HR_Management.Infrastructure.pdb
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Infrastructure/bin/Debug/net8.0/HR_Management.Domain.dll
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Infrastructure/bin/Debug/net8.0/HR_Management.Domain.pdb
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Infrastructure/obj/Debug/net8.0/HR_Management.Infrastructure.csproj.AssemblyReference.cache
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Infrastructure/obj/Debug/net8.0/HR_Management.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Infrastructure/obj/Debug/net8.0/HR_Management.Infrastructure.AssemblyInfoInputs.cache
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Infrastructure/obj/Debug/net8.0/HR_Management.Infrastructure.AssemblyInfo.cs
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Infrastructure/obj/Debug/net8.0/HR_Management.Infrastructure.csproj.CoreCompileInputs.cache
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Infrastructure/obj/Debug/net8.0/HR_Management.Infrastructure.csproj.CopyComplete
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Infrastructure/obj/Debug/net8.0/HR_Management.Infrastructure.dll
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Infrastructure/obj/Debug/net8.0/refint/HR_Management.Infrastructure.dll
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Infrastructure/obj/Debug/net8.0/HR_Management.Infrastructure.pdb
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Infrastructure/obj/Debug/net8.0/HR_Management.Infrastructure.genruntimeconfig.cache
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Infrastructure/obj/Debug/net8.0/ref/HR_Management.Infrastructure.dll

@@ -1,0 +1,15 @@
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Application/bin/Debug/net8.0/HR_Management.Application.deps.json
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Application/bin/Debug/net8.0/HR_Management.Application.dll
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Application/bin/Debug/net8.0/HR_Management.Application.pdb
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Application/bin/Debug/net8.0/HR_Management.Domain.dll
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Application/bin/Debug/net8.0/HR_Management.Domain.pdb
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Application/obj/Debug/net8.0/HR_Management.Application.csproj.AssemblyReference.cache
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Application/obj/Debug/net8.0/HR_Management.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Application/obj/Debug/net8.0/HR_Management.Application.AssemblyInfoInputs.cache
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Application/obj/Debug/net8.0/HR_Management.Application.AssemblyInfo.cs
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Application/obj/Debug/net8.0/HR_Management.Application.csproj.CoreCompileInputs.cache
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Application/obj/Debug/net8.0/HR_Management.Application.csproj.CopyComplete
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Application/obj/Debug/net8.0/HR_Management.Application.dll
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Application/obj/Debug/net8.0/refint/HR_Management.Application.dll
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Application/obj/Debug/net8.0/HR_Management.Application.pdb
+/home/opit/Documents/HR_Management/HR_Management/HR_Management.Application/obj/Debug/net8.0/ref/HR_Management.Application.dll

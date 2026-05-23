@@ -1,0 +1,33 @@
+@model HR_Management.Application.DTOs.DepartmentDTO
+@{
+    ViewData["Title"] = "Delete Department";
+}
+
+<h2 class="text-danger">Delete Department</h2>
+<hr />
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+
+<div class="alert alert-warning">
+    Are you sure you want to delete this department? Departments with assigned employees cannot be deleted.
+</div>
+
+<dl class="row">
+    <dt class="col-sm-3">Code</dt>
+    <dd class="col-sm-9">@Model.DepartmentCode</dd>
+    <dt class="col-sm-3">Name</dt>
+    <dd class="col-sm-9">@Model.DepartmentName</dd>
+    <dt class="col-sm-3">Location</dt>
+    <dd class="col-sm-9">@Model.Location</dd>
+    <dt class="col-sm-3">Employees</dt>
+    <dd class="col-sm-9">@Model.NumberOfPersonals</dd>
+</dl>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

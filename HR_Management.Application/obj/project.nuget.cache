@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "wCpKa3pFt+kdFRmUVmMF6jtxxAdTY4Pp1UXtHcKPaB6MuWOC549lMI9OYa+uqo5mreHi+Mi2gKYvXmLJr+x+rQ==",
+  "success": true,
+  "projectFilePath": "/home/opit/Documents/HR_Management/HR_Management/HR_Management.Application/HR_Management.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/opit/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/home/opit/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/opit/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AutoMapper' 12.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
